@@ -6,5 +6,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="fst 2024_2025/semestre 1/002 2 java/project java eclipse"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
